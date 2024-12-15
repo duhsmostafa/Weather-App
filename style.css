@@ -1,0 +1,46 @@
+.logo-img{
+    width: 70px;
+}
+.logo-text{
+    font-size: 12px;
+}
+.bg-image img{
+    height: 80vh ;
+}
+.input-type{
+    margin-left: 14%;
+    color: aliceblue;
+}
+.inputtt{
+    border-radius: 20px;
+    top: 10%;
+}
+.btn{
+    margin-left: 67%;
+    margin-top: 5px;
+    border-radius: 20px;
+    padding: 10px 30px;
+    top: 10%;
+}
+.card{
+    width: 33%;
+}
+.card-deg{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.card-temp{
+    font-size: 90px;
+}
+.all-cards{
+    position: absolute;
+    top: 60%;
+    left: 3%;
+}
+.card{
+    background-color: #1e202b;
+    color: #bfc1c8;
+}
+.card2{
+    background-color: #303341;
+}
